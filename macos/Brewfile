@@ -27,7 +27,9 @@ brew 'yarn'
 # Casks
 cask 'anytype'  # Notion/Obsidian alternative
 cask 'better-display'
-cask 'brave'
+cask 'brave-browser'
+cask 'notion'
 cask 'podman-desktop'
+cask 'spotify'
 cask 'sublime-merge'
 cask 'visual-studio-code'
