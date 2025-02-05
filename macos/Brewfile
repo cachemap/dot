@@ -13,6 +13,7 @@ brew 'go'
 brew 'gource'  # `git` visualizer
 brew 'htop'
 brew 'httpie'
+brew 'node'
 brew 'podman'
 brew 'shellcheck'  # TODO: Add additional setup instructions for this (maybe the .vimrc to enable it?)
 brew 'speedtest-cli'
