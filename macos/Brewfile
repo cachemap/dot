@@ -10,6 +10,7 @@ brew 'derailed/k9s/k9s'
 brew 'fzf'  # "fuzzy-search" file finder
 brew 'git'
 brew 'go'
+brew 'gh'
 brew 'gource'  # `git` visualizer
 brew 'htop'
 brew 'httpie'
