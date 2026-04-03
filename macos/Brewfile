@@ -4,30 +4,32 @@ tap 'homebrew/cask-versions'
 
 # Brews
 brew 'asciidoctor'
-brew 'bat'
+brew 'bat'                     # `cat` with syntax highlighting 
+brew 'bandwhich'               # For network usage by process
 brew 'charmbracelet/tap/mods'  # For interacting with LLM APIs
 brew 'derailed/k9s/k9s'
-brew 'fzf'  # "fuzzy-search" file finder
+brew 'dust'                    # better form of `du`
+brew 'fzf'                     # "fuzzy-search" file finder
 brew 'git'
 brew 'go'
 brew 'gh'
-brew 'gource'  # `git` visualizer
+brew 'gource'                  # `git` visualizer
 brew 'htop'
 brew 'httpie'
 brew 'node'
 brew 'podman'
-brew 'shellcheck'  # TODO: Add additional setup instructions for this (maybe the .vimrc to enable it?)
+brew 'shellcheck'              # TODO: Add additional setup instructions for this (maybe the .vimrc to enable it?)
 brew 'speedtest-cli'
-brew 'thefuck'  # For autocorrecting command mistakes/mistypes
-brew 'tldr'  # Provides condensed summaries of commands as a companion to `man`
+brew 'thefuck'                 # For autocorrecting command mistakes/mistypes
+brew 'tldr'                    # Provides condensed summaries of commands as a companion to `man`
 brew 'tmux'
 brew 'yarn'
 
 # Useful but not always necessary
-# brew 'ollama'  # For running LLMs locally
+# brew 'ollama'                # For running LLMs locally
 
 # Casks
-cask 'anytype'  # Notion/Obsidian alternative
+cask 'anytype'                 # Notion/Obsidian alternative
 cask 'better-display'
 cask 'brave-browser'
 cask 'notion'
