@@ -9,6 +9,7 @@ brew 'bandwhich'               # For network usage by process
 brew 'charmbracelet/tap/mods'  # For interacting with LLM APIs
 brew 'derailed/k9s/k9s'
 brew 'dust'                    # better form of `du`
+brew 'fastfetch'               # x-platform system info fetcher (like uname)
 brew 'fzf'                     # "fuzzy-search" file finder
 brew 'git'
 brew 'go'
